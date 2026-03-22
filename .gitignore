@@ -1,0 +1,98 @@
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.env.*
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# ==========================================
+# RL checkpoints (weights, can be large)
+# ==========================================
+checkpoints/*.pt
+checkpoints/*.pth
+
+# ==========================================
+# Unity
+# ==========================================
+unity/Quadcopter_Sim/Library/
+unity/Quadcopter_Sim/Temp/
+unity/Quadcopter_Sim/Logs/
+unity/Quadcopter_Sim/Obj/
+unity/Quadcopter_Sim/Build/
+unity/Quadcopter_Sim/Builds/
+unity/Quadcopter_Sim/UserSettings/
+unity/Quadcopter_Sim/.vs/
+unity/Quadcopter_Sim/*.csproj
+unity/Quadcopter_Sim/*.sln
+
+# ==========================================
+# Flutter / Dart
+# ==========================================
+app/**/.dart_tool/
+app/**/.flutter-plugins
+app/**/.flutter-plugins-dependencies
+app/.packages
+app/build/
+app/.idea/
+app/*.iml
+
+# Android
+app/android/.gradle/
+app/android/local.properties
+app/android/key.properties
+app/android/app/google-services.json
+
+# iOS
+app/ios/Pods/
+app/ios/.symlinks/
+app/ios/Flutter/Flutter.framework
+app/ios/Flutter/Flutter.podspec
+app/ios/Flutter/Generated.xcconfig
+app/ios/Flutter/ephemeral/
+
+# Windows / Linux / macOS desktop
+app/windows/flutter/ephemeral/
+app/linux/flutter/ephemeral/
+app/macos/Pods/
+app/macos/Flutter/ephemeral/
+app/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# ==========================================
+# VS Code
+# ==========================================
+.vscode/
+!.vscode/extensions.json
+
+# ==========================================
+# JetBrains / IntelliJ / Rider
+# ==========================================
+.idea/
+*.iml
+*.iws
+*.ipr
+.fleet/
+
+# ==========================================
+# macOS
+# ==========================================
+.DS_Store
+**/.DS_Store
+
+# ==========================================
+# Windows
+# ==========================================
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logs/
