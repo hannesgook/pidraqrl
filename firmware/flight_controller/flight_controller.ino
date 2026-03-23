@@ -1,6 +1,6 @@
 // Copyright (c) 2025 Hannes Göök
-// MIT License - PidraQRL Project
-// https://github.com/hannesgook/pqrl2
+// MIT License - PidraQRL
+// https://github.com/hannesgook/pidraqrl
 
 #include <NimBLEDevice.h>
 #include <Wire.h>
