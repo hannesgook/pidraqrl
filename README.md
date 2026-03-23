@@ -8,6 +8,7 @@ Every layer of this system was built from scratch: the quadrotor chassis (Fusion
 > 📰 [Hulebäcksgymnasiet article](https://hulebacksgymnasiet.harryda.se/nyhetsarkiv/2026-02-27-tavlar-med-egenbyggd-dronare), [School video](https://youtu.be/nFjXQu7kyrs?si=i-YoVVQbaT2_d_f_), [Demo video](https://youtu.be/TsKfvWoOu-4?si=t9hcCkoqaKfQ_xi9)  
 > 🌐 [Digital exhibition (Projectboard)](https://events.projectboard.world/ungaforskare2026/project/222684)
 
+![Drone](docs/drone_hero.jpg)
 ![System setup](docs/system_setup.jpg)
 
 ## What this is
@@ -61,7 +62,7 @@ The Unity project also contains a direct-BLE receiver mode, but the checked-in `
 | Battery           | 3S 3000 mAh 50C LiPo (11.1 V, 33.3 Wh) |
 | Total weight      | 760 g (incl. 220 g battery)            |
 
-![Chassis](docs/chassis_cad.png)
+![Chassis](docs/chassis_cad.jpg)
 
 ## Test rig
 
@@ -409,7 +410,7 @@ Current app defaults in the checked-in code:
 - `yaw_P = yaw_I = yaw_D = 0.0`
 - `angleKP = 3.3`
 
-![App](docs/app_screenshot.png)
+![App](docs/app_screenshot.jpg)
 
 ## Running the RL bridge
 
