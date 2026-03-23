@@ -66,7 +66,7 @@ The Unity project also contains a direct-BLE receiver mode, but the checked-in `
 
 ## Test rig
 
-To train the RL agent safely with live propellers spinning, a custom single-axis rig was built that constrains the quadrotor to near-frictionless rotation around the roll axis only. This gives the agent clean, repeatable observations without the risk of a crash damaging hardware during training. The rig was designed in Fusion 360 by Isak Roos and is modelled in the Unity digital twin.
+To train the RL agent safely with live propellers spinning, a custom single-axis rig was built that constrains the quadrotor to near-frictionless rotation around the roll axis only. This gives the agent clean, repeatable observations without the risk of a crash damaging hardware during training. The rig was designed by Isak Roos and made in wood, then digitalised in Fusion 360 by Hannes Göök and is present in the Unity digital twin.
 
 ![Test rig](docs/test_rig.jpg)
 
