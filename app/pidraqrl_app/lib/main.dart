@@ -1,6 +1,6 @@
 // Copyright (c) 2025-2026 Hannes Göök
-// MIT License - PidraQRL Project
-// https://github.com/hannesgook/pqrl2
+// MIT License - PidraQRL
+// https://github.com/hannesgook/pidraqrl
 
 import 'dart:async';
 import 'dart:convert';
