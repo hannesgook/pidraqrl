@@ -6,17 +6,19 @@ Every layer of this system was built from scratch: the quadrotor chassis (Fusion
 
 > 🏆 **Winner of the Yale SEA Most Outstanding STEM Exhibit** - Unga Forskare 2026 National Final (Sweden's Young Researchers national championship)
 > 
-> 📄 [Official winners list](https://ungaforskare.se/wp-content/uploads/2026/03/alla-vinnare-uuf-2026-1.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAQz6G1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad5GfXVKqrb3qj2pK-MDdI4lCDxwGsqRKR8YA2ytLWBNzox-uJBilDC0D45dw_aem__15jBvfqmiITrkEP-tInBQ)
+> 📄 [Official winners list (Swedish)](https://ungaforskare.se/wp-content/uploads/2026/03/alla-vinnare-uuf-2026-1.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAQz6G1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad5GfXVKqrb3qj2pK-MDdI4lCDxwGsqRKR8YA2ytLWBNzox-uJBilDC0D45dw_aem__15jBvfqmiITrkEP-tInBQ)
 > 
-> 📄 [Winners announcement with photos (LinkedIn)](https://www.linkedin.com/posts/grattis-till-alla-fantastiska-pristagare-ugcPost-7443214290331017216-65qc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAExydk8B2cZze4JlFAEzUhzplSSweQ-0wBE)
+> 📄 [Winners announcement with photos (LinkedIn) (Swedish)](https://www.linkedin.com/posts/grattis-till-alla-fantastiska-pristagare-ugcPost-7443214290331017216-65qc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAExydk8B2cZze4JlFAEzUhzplSSweQ-0wBE)
 > 
-> 📰 [Hulebäcksgymnasiet article](https://hulebacksgymnasiet.harryda.se/nyhetsarkiv/2026-02-27-tavlar-med-egenbyggd-dronare), [School video](https://youtu.be/nFjXQu7kyrs?si=i-YoVVQbaT2_d_f_), [Demo video](https://youtu.be/TsKfvWoOu-4?si=t9hcCkoqaKfQ_xi9)
+> 📰 [Hulebäcksgymnasiet article (Swedish)](https://hulebacksgymnasiet.harryda.se/nyhetsarkiv/2026-02-27-tavlar-med-egenbyggd-dronare), [School video (Swedish)](https://youtu.be/nFjXQu7kyrs?si=i-YoVVQbaT2_d_f_)
+>
+> 🎥 [Original demo video for Unga Forskare (Swedish)](https://youtu.be/TsKfvWoOu-4?si=t9hcCkoqaKfQ_xi9)
 > 
 > 🌐 [Digital exhibition (Projectboard)](https://events.projectboard.world/ungaforskare2026/project/222684)
 >
 > *"The project stands out through a very high level of technical ambition. The custom-built flight controller, the distributed communication chain, and the well-designed failsafe solution demonstrate a deep understanding of real-time systems, control theory, and system safety. The methodology is exemplarily clear and reproducible."* - Research jury, Unga Forskare 2026 (translated)
 > 
-> *"In this project, the team members refused to take any shortcuts whatsoever. By rejecting ready-made frameworks and instead building everything from scratch - from communication to software - this work has demonstrated a technical dedication beyond the ordinary."* - Winners catalogue, Unga Forskare 2026 (translated)
+> *"In this project, the team members refused to take any shortcuts whatsoever. By rejecting ready-made frameworks and instead building everything from scratch, from communication to software, this work has demonstrated a technical dedication beyond the ordinary."* - Winners catalogue, Unga Forskare 2026 (translated) - [Link (Swedish)](https://ungaforskare.se/wp-content/uploads/2026/03/alla-vinnare-uuf-2026-1.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAQz6G1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad5GfXVKqrb3qj2pK-MDdI4lCDxwGsqRKR8YA2ytLWBNzox-uJBilDC0D45dw_aem__15jBvfqmiITrkEP-tInBQ)
 
 ![Drone](docs/drone_hero.jpg)
 ![System setup](docs/system_setup.jpg)
