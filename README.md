@@ -4,7 +4,9 @@
 
 Every layer of this system was built from scratch: the quadrotor chassis (Fusion 360 + 3D print), the ESP32 real-time flight controller, the BLE/LoRa communication chain, the Flutter mobile app, the RL system, and the Unity HDRP digital twin. No off-the-shelf flight stack, no Betaflight, no simulation-to-real transfer.
 
-> 🏆 **National final, Unga Forskare** (Sweden's Young Researchers national championship), 2026  
+> 🏆 **Winner of the Yale SEA Most Outstanding STEM Exhibit** - Unga Forskare 2026 National Final (Sweden's Young Researchers national championship)
+> 📄 [Official winners list](https://ungaforskare.se/wp-content/uploads/2026/03/alla-vinnare-uuf-2026-1.pdf?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAQz6G1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAad5GfXVKqrb3qj2pK-MDdI4lCDxwGsqRKR8YA2ytLWBNzox-uJBilDC0D45dw_aem__15jBvfqmiITrkEP-tInBQ)
+> 📄 [Winners announcement with photos (LinkedIn)](https://www.linkedin.com/posts/grattis-till-alla-fantastiska-pristagare-ugcPost-7443214290331017216-65qc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAExydk8B2cZze4JlFAEzUhzplSSweQ-0wBE)
 > 📰 [Hulebäcksgymnasiet article](https://hulebacksgymnasiet.harryda.se/nyhetsarkiv/2026-02-27-tavlar-med-egenbyggd-dronare), [School video](https://youtu.be/nFjXQu7kyrs?si=i-YoVVQbaT2_d_f_), [Demo video](https://youtu.be/TsKfvWoOu-4?si=t9hcCkoqaKfQ_xi9)  
 > 🌐 [Digital exhibition (Projectboard)](https://events.projectboard.world/ungaforskare2026/project/222684)
 
