@@ -143,7 +143,7 @@ def main(adapter_address):
     print("============================================")
     print("        PidraQRL - ble_lora_bridge.py       ")
     print("    Copyright (c) 2025-2026 Hannes Göök     ")
-    print("       MIT License - PidraQRL Project       ")
+    print("           MIT License - PidraQRL           ")
     print("   https://github.com/hannesgook/pidraqrl   ")
     print("============================================")
 
