@@ -69,8 +69,7 @@ The Unity project also contains a direct-BLE receiver mode, but the checked-in `
 | ESCs              | Pulsar A-40 G3.5                       |
 | Motors            | Pichler Pulsar Shocky Pro 2204, 1800 kV |
 | Props             | 12.5 cm diameter                       |
-| LoRa module       | RFM95W @ 433 MHz                       |
-| LoRa relay        | Raspberry Pi + LoRa hat                |
+| LoRa modules      | 2x RFM95W @ 433 MHz (one on ESP32, one on Pi) |
 | Battery           | 3S 3000 mAh 50C LiPo (11.1 V, 33.3 Wh) |
 | Total weight      | 760 g (incl. 220 g battery)            |
 
