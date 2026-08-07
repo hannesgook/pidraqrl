@@ -1,5 +1,5 @@
-// Copyright (c) 2025-2026 Hannes Göök
-// MIT License - PidraQRL Project
+// Copyright (c) 2025-2026 Hannes GÃ¶Ã¶k
+// MIT License - PidraQRL
 // https://github.com/hannesgook/pidraqrl
 
 using System;

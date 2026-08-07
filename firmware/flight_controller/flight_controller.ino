@@ -76,7 +76,7 @@ static const int ESC_PIN_BR = 32;
 #define MPU_GYRO_SCALE_LSB 32.8f
 
 // Flight limits
-static const float STICK_MAX_ANGLE_DEG = 30.0f;
+static const float STICK_MAX_ANGLE_DEG = 8.0f;
 static const float STICK_MAX_YAW_RATE_DPS = 120.0f;
 static const int   IDLE_CUTOFF_US = 1050;
 static const int   MAX_THROTTLE = 2000;
@@ -836,7 +836,7 @@ void imuTask(void* parameter) {
             }
 
             setMotorTargets(fl, fr, bl, br);
-        } else {
+        } else {  
             setMotorTargets(1000, 1000, 1000, 1000);
         }
     }
